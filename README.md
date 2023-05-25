@@ -24,4 +24,10 @@ The application was developed with a 3-tier system architecture (Client Side [HT
 - [DataFlowDiagrams](docs/DataFlowDiagrams)
 - [SequenceDiagrams](docs/SequenceDiagrams)
 
+#### Snapshots of the application
+
+![pic1](img/picture_1.png)
+![pic2](img/picture_2.png)
+![pic3](img/picture_3.png)
+
 
