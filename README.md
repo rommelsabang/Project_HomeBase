@@ -13,15 +13,15 @@ This required formal analysis, development of an architecture, using Test Driven
 The application was developed with a 3-tier system architecture (Client Side [HTML/CSS] / Server Side [Express.js] / Database [MongoDB])
 
 #### Code can be found in the following
-[Views](views)
-[Routes](routes)
-[SchemaModels](models)
-[Tests](tests)
+- [Views](views)
+- [Routes](routes)
+- [SchemaModels](models)
+- [Tests](tests)
 
 #### Documentation
-[ArchitectureDiagrams](docs/ArchitectureDiagram)
-[ClassDiagrams](docs/ClassDiagrams)
-[DataFlowDiagrams](docs/DataFlowDiagrams)
-[SequenceDiagrams](docs/SequenceDiagrams)
+- [ArchitectureDiagrams](docs/ArchitectureDiagram)
+- [ClassDiagrams](docs/ClassDiagrams)
+- [DataFlowDiagrams](docs/DataFlowDiagrams)
+- [SequenceDiagrams](docs/SequenceDiagrams)
 
 
