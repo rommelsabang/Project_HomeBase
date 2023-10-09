@@ -8,7 +8,7 @@ Homebase, is designed to be a minimalistic clone of Discord, the popular chat an
 
 This project allowed me to advance my understanding of software engineering principles, tools, and techniques using structured requirements gathering and analysis, software development process, design patterns, software architecture and software testing. As well as building my experience in development methodology, software metrics, and software quality assurance. 
 
-This required formal analysis, development of an architecture, using Test Driven Design and an Agile workflow, to iterate and develope the project. 
+This required formal analysis, development of an architecture, using Test Driven Design and an Agile workflow, to iterate and develop the project. 
 
 The application was developed with a 3-tier system architecture (Client Side [HTML/CSS] / Server Side [Express.js] / Database [MongoDB])
 
